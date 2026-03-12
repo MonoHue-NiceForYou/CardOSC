@@ -1,3 +1,6 @@
+#Programmed by Cubix-X LLC.
+#MIT License
+
 import customtkinter as ctk
 from tkinter import messagebox
 from pythonosc import udp_client
@@ -482,3 +485,4 @@ if __name__ == "__main__":
         app.mainloop()
     except KeyboardInterrupt:
         sys.exit(0)
+
